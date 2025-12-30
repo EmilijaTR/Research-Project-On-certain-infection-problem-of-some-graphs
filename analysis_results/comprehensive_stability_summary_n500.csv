@@ -1,0 +1,11 @@
+a,divisible_by_3,stable,stable_value,stable_from_n,valid_graphs,computed,pattern
+4,False,True,4.0,24.0,493,493,m_2=a
+5,False,True,5.0,127.0,492,492,m_2=a
+7,False,True,7.0,141.0,491,491,m_2=a
+8,False,True,8.0,227.0,490,490,m_2=a
+10,False,True,10.0,188.0,488,488,m_2=a
+9,True,approximate,2.7,,327,327,other
+12,True,True,4.0,416.0,326,326,other
+15,True,approximate,5.8,472.0,324,324,other
+18,True,True,8.0,385.0,322,322,other
+21,True,True,10.0,310.0,320,320,other

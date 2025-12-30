@@ -1,0 +1,11 @@
+a,divisible_by_3,stable,stable_value,stable_from_n,valid_graphs,computed
+4,False,True,4.0,24,993,993
+5,False,True,5.0,127,992,992
+7,False,True,7.0,141,991,991
+8,False,True,8.0,227,990,990
+9,True,approximate,3.0,851,661,661
+10,False,True,10.0,188,988,988
+12,True,True,4.0,416,659,659
+15,True,True,6.0,499,657,657
+18,True,True,8.0,385,655,655
+21,True,True,10.0,310,653,653
